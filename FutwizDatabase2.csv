@@ -18156,7 +18156,7 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 18140;lewis dunk;18643;https://www.futwiz.com/en/fc24/player/lewis-dunk/18643;85;151;Brighton;ENG 1;Inglaterra;80;53;69;71;86;85
 18141;julian ryerson;18644;https://www.futwiz.com/en/fc24/player/julian-ryerson/18644;84;151;Borussia Dortmund;GER 1;Noruega;81;68;76;82;80;87
 18142;dejan kulusevski;18645;https://www.futwiz.com/en/fc24/player/dejan-kulusevski/18645;85;58;Spurs;ENG 1;Suecia;87;82;84;87;60;79
-18143;mykhailo mudryk;18646;https://www.futwiz.com/en/fc24/player/mykhailo-mudryk/18646;85;58;Chelsea;ENG 1;Ucrania;93;80;78;86;54;68
+18143;mykhailo mudryk;18646;https://www.futwiz.com/en/fc24/player/mykhailo-mudryk/18646;87;57;Chelsea;ENG 1;Ucrania;95;82;80;88;56;70
 18144;jordan morris;18647;https://www.futwiz.com/en/fc24/player/jordan-morris/18647;85;87;Sounders FC;MLS;Estados Unidos;92;82;79;83;51;86
 18145;luquinhas;18648;https://www.futwiz.com/en/fc24/player/luquinhas/18648;85;87;Red Bulls;MLS;Brasil;90;78;77;85;48;70
 18146;jean-louis leca;18649;https://www.futwiz.com/en/fc24/player/jean-louis-leca/18649;85;151;RC Lens;FRA 1;Francia;84;83;87;85;54;86
@@ -18232,7 +18232,7 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 18216;hakan calhanoglu;18719;https://www.futwiz.com/en/fc24/player/hakan-calhanoglu/18719;86;goldif;Inter;ITA 1;Turquia;72;83;88;87;73;70
 18217;jordyn huitema;18720;https://www.futwiz.com/en/fc24/player/jordyn-huitema/18720;85;58;OL Reign;USA F;Canada;88;85;79;85;55;81
 18218;jeremy doku;18721;https://www.futwiz.com/en/fc24/player/jeremy-doku/18721;85;goldif;Manchester City;ENG 1;Belgica;95;78;79;89;34;77
-18219;midge purce;18722;https://www.futwiz.com/en/fc24/player/midge-purce/18722;85;58;Gotham FC;USA F;Estados Unidos;93;81;79;85;46;76
+18219;midge purce;18722;https://www.futwiz.com/en/fc24/player/midge-purce/18722;87;57;Gotham FC;USA F;Estados Unidos;95;83;81;87;48;78
 18220;sancet;18723;https://www.futwiz.com/en/fc24/player/sancet/18723;85;goldif;Athletic Club;ESP 1;España;78;82;82;86;65;77
 18221;grimaldo;18724;https://www.futwiz.com/en/fc24/player/grimaldo/18724;87;goldif;Leverkusen;GER 1;España;91;73;86;87;81;77
 18222;dayot upamecano;18725;https://www.futwiz.com/en/fc24/player/dayot-upamecano/18725;85;goldif;FC Bayern MA 1/4nchen;GER 1;Francia;86;49;67;76;85;86
@@ -18299,3 +18299,26 @@ ID;Nombre;IdFutwiz;Enlace;Media;Calidad;Equipo;Liga;Pais;Ritmo;Tiro;Pase;Regate;
 18283;philipp kohn;18786;https://www.futwiz.com/en/fc24/player/philipp-kohn/18786;83;goldif;AS Monaco;FRA 1;Suiza;84;81;80;86;58;80
 18284;franck honorat;18787;https://www.futwiz.com/en/fc24/player/franck-honorat/18787;83;goldif;M'gladbach;GER 1;Francia;88;83;80;83;54;68
 18285;kristian thorstvedt;18788;https://www.futwiz.com/en/fc24/player/kristian-thorstvedt/18788;83;goldif;Sassuolo;ITA 1;Noruega;75;82;79;82;78;91
+18286;florian wirtz;18789;https://www.futwiz.com/en/fc24/player/florian-wirtz/18789;87;42;Leverkusen;GER 1;Alemania;79;82;87;89;56;67
+18287;mason holgate;18790;https://www.futwiz.com/en/fc24/player/mason-holgate/18790;85;87;Southampton;ENG 2;Inglaterra;82;50;75;75;83;85
+18288;georginio rutter;18791;https://www.futwiz.com/en/fc24/player/georginio-rutter/18791;85;87;Leeds United;ENG 2;Francia;87;86;77;85;37;79
+18289;stephy mavididi;18792;https://www.futwiz.com/en/fc24/player/stephy-mavididi/18792;84;87;Leicester City;ENG 2;Inglaterra;91;83;80;85;33;77
+18290;ismael kone;18793;https://www.futwiz.com/en/fc24/player/ismael-kone/18793;83;87;Watford;ENG 2;Canada;83;79;82;81;78;82
+18291;sadio mane;18794;https://www.futwiz.com/en/fc24/player/sadio-mane/18794;88;34;Al Nassr;SAU 1;Senegal;90;85;81;90;46;78
+18292;willian;18795;https://www.futwiz.com/en/fc24/player/willian/18795;88;34;Fulham;ENG 1;Brasil;90;88;88;91;60;68
+18293;dele alli;18796;https://www.futwiz.com/en/fc24/player/dele-alli/18796;87;34;Everton;ENG 1;Inglaterra;82;87;86;89;73;78
+18294;hirving lozano;18797;https://www.futwiz.com/en/fc24/player/hirving-lozano/18797;87;34;PSV;NED 1;Mexico;95;82;80;87;49;72
+18295;manuel locatelli;18798;https://www.futwiz.com/en/fc24/player/manuel-locatelli/18798;87;34;Juventus;ITA 1;Italia;78;75;83;81;86;87
+18296;kalidou koulibaly;18799;https://www.futwiz.com/en/fc24/player/kalidou-koulibaly/18799;87;34;Al Hilal;SAU 1;Senegal;82;51;66;73;87;87
+18297;angelo ogbonna;18800;https://www.futwiz.com/en/fc24/player/angelo-ogbonna/18800;87;34;West Ham;ENG 1;Italia;80;50;70;71;88;87
+18298;randal kolo muani;18801;https://www.futwiz.com/en/fc24/player/randal-kolo-muani/18801;87;34;Paris SG;FRA 1;Francia;93;83;78;89;41;73
+18299;fabinho;18802;https://www.futwiz.com/en/fc24/player/fabinho/18802;87;34;Al Ittihad;SAU 1;Brasil;77;73;82;81;86;87
+18300;florian thauvin;18803;https://www.futwiz.com/en/fc24/player/florian-thauvin/18803;87;34;Udinese;ITA 1;Francia;90;87;85;89;60;78
+18301;yann karamoh;18804;https://www.futwiz.com/en/fc24/player/yann-karamoh/18804;86;34;Torino;ITA 1;Francia;91;84;80;89;43;77
+18302;kalvin phillips;18805;https://www.futwiz.com/en/fc24/player/kalvin-phillips/18805;86;34;Manchester City;ENG 1;Inglaterra;77;72;84;83;86;82
+18303;diogo jota;18806;https://www.futwiz.com/en/fc24/player/diogo-jota/18806;86;80;Liverpool;ENG 1;Portugal;85;85;76;86;58;80
+18304;donyell malen;18807;https://www.futwiz.com/en/fc24/player/donyell-malen/18807;85;34;Borussia Dortmund;GER 1;Holanda;91;83;78;88;38;78
+18305;jean-victor makengo;18808;https://www.futwiz.com/en/fc24/player/jean-victor-makengo/18808;85;34;FC Lorient;FRA 1;Francia;78;79;83;85;84;82
+18306;ivan cavaleiro;18809;https://www.futwiz.com/en/fc24/player/ivan-cavaleiro/18809;85;34;LOSC Lille;FRA 1;Portugal;91;84;80;87;50;86
+18307;mohamed simakan;18810;https://www.futwiz.com/en/fc24/player/mohamed-simakan/18810;84;34;RB Leipzig;GER 1;Francia;81;50;71;74;85;85
+18308;renan lodi;18811;https://www.futwiz.com/en/fc24/player/renan-lodi/18811;85;34;OM;FRA 1;Brasil;89;73;81;83;81;80
